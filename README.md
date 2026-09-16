@@ -1,3 +1,3 @@
-1.host
-2.ipconfig
+1. host
+2. ipconfig
 
